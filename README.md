@@ -187,4 +187,3 @@ docker-compose up --build
 
 ## Author
 **Vaishali Modi**
-B.Tech Computer Science Engineering | AI/ML | Data Science | Full Stack Development
