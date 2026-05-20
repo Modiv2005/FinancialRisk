@@ -1,0 +1,39 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Auth
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+
+# AI / LLM
+openai
+langchain
+langchain-openai
+langchain-community
+
+# ML / Data Science
+scikit-learn
+pandas
+numpy
+scipy
+statsmodels
+
+# Document Processing
+pdfplumber
+PyMuPDF
+python-docx
+openpyxl
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+httpx
+aiofiles
